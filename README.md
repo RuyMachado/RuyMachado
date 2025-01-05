@@ -6,14 +6,6 @@
 Me chamo Ruy Luiz da Silva Machado Neto, tenho 23 anos e sou natural do Espirito Santo. Atualmente, estou cursando Tecnologia em Sistemas para Internet no IFES. Sou apaixonado por tecnologia, principalmente pela área de dados.
 
 <p align="left">
-    <a href="https://github.com/RuyMachado?tab=repositories&sort=stargazers">
-        <img src="https://custom-icon-badges.demolab.com/github/stars/RuyMachado?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/RuyMachado?tab=followers">
-        <img src="https://custom-icon-badges.demolab.com/github/followers/RuyMachado?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     <a href="https://instagram.com/ruymachado2" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
