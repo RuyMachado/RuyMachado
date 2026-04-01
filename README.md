@@ -36,18 +36,10 @@ Me chamo Ruy Luiz da Silva Machado Neto, tenho 25 anos e sou natural do Espirito
 
 ### 📊 Estatísticas
 
-<p>
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=RuyMachado&include_all_commits=True&show_icons=true&theme=dark" 
-    />
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuyMachado&theme=dark&layout=compact&langs_count=5" 
-    />
-</p>
+<div align="center">
+    
+  | GitHub Stats | Top Languages |
+  |--------------|---------------|
+  | <img height="240em" src="https://streak-stats.demolab.com/?user=RuyMachado&count_private=true&theme=highcontrast&title_color=00b3ff"/> | <img height="240em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RuyMachado&layout=compact&count_private=true&theme=dark&langs_count=5"/> |
+  
+</div>
