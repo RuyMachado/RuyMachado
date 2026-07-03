@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Ruy Machado
 
 
-Me chamo Ruy Luiz da Silva Machado Neto, tenho 25 anos e sou natural do Espirito Santo. Atuo na área de Ciência de Dados, trabalhando com análise, tratamento e modelagem de dados.
+Me chamo Ruy Luiz da Silva Machado Neto, tenho 25 anos e sou natural do Espirito Santo. Atuo na área de Análise de Dados, com experiência em análise, tratamento e modelagem de dados, buscando transformar dados em informações estratégicas que contribuam para a tomada de decisões e a otimização de processos.
 
 
 <p align="left">
